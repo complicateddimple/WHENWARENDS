@@ -1,0 +1,5 @@
+{
+  "name": "Geopolitical War Forecast",
+  "description": "An application that provides a real-time geopolitical analysis of the war in Ukraine, forecasting potential end dates and long-term outcomes using AI.",
+  "requestFramePermissions": []
+}
